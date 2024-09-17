@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web-Design
 ## HTTP-5121
 
@@ -13,9 +12,7 @@ Here is the link to W3Schools where you can find learning material of javascript
 You can validate HTML and CSS code by this resource : [W3_Markup_Validation](https://validator.w3.org/)
 
 
->Following is a code sample of HTML. Headings are defined with the <h1> to <h6> tags where <h1> defines the most important heading and <h6> defines the least important heading.
-=======
->>>>>>> d40dff10f4fd644f5fb9fff87e11676063ad6f6e
+>Following is a code sample of HTML:
 
 ```html
 <h1>Heading 1</h1>

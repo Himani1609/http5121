@@ -12,7 +12,7 @@ Here is the link to W3Schools where you can find learning material of javascript
 You can validate HTML and CSS code by this resource : [W3_Markup_Validation](https://validator.w3.org/)
 
 
->Following is a code sample of HTML:
+>Following is a code sample of HTML :
 
 ```html
 <h1>Heading 1</h1>

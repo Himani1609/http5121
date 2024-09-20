@@ -9,7 +9,7 @@ Here is the link to W3Schools where you can find learning material of javascript
 [CSS_W3Schools](https://www.w3schools.com/css/default.asp)
 
 >[!Note]  
-You can validate HTML and CSS code by this resource : [W3_Markup_Validation](https://validator.w3.org/)
+You can validate HTML and CSS code from this resource : [W3_Markup_Validation](https://validator.w3.org/)
 
 
 >Following is a code sample of HTML :

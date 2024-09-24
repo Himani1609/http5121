@@ -1,7 +1,7 @@
 # Web-Design
 ## HTTP-5121
 
-<img src=./html.png alt="HTML" width="150" height="150">  <img src=./css.png alt="CSS" width="150" height="150">
+<img src=./html.png alt="HTML" width="120" height="150">  <img src=./css.png alt="CSS" width="150" height="150">
 
 This is repo of course HTTP-5121 Web-Design. 
 This will include all the assignments, labs and any practice files related to this course.
